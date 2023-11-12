@@ -1,0 +1,14 @@
+site_name: Pythonによる時系列予測
+
+nav:
+  - はじめに: index.md
+  - "第2章 単純な未来予測": chapter02.ipynb
+  - "第3章 ランダムウォーク": chapter03.ipynb
+
+theme:
+  name: material
+
+use_directory_urls: false
+
+plugins:
+  - mkdocs-jupyter
