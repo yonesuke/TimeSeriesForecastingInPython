@@ -5,7 +5,7 @@
 ![](https://book.mynavi.jp/files/topics/141029_ext_06_0.jpg?v=1697525831)
 
 | 各章 | リンク | 最終更新日 |
-| ---- | ---- |
+| ---- | ---- | ---- |
 | 第1章 時系列予測 | [chapter01](chapter01.html) | |
 | 第2章 単純な未来予測 | [chapter02](chapter02.html) | 2023-11-12|
 | 第3章 ランダムウォーク | [chapter03](chapter03.html) | 2023-11-12
