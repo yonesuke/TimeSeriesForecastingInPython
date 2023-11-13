@@ -5,6 +5,7 @@ nav:
   - "第2章 単純な未来予測": chapter02.ipynb
   - "第3章 ランダムウォーク": chapter03.ipynb
   - "第4章 移動平均プロセスのモデル化": chapter04.ipynb
+  - "第5章 自己回帰プロセスのモデル化": chapter05.ipynb
 
 theme:
   name: material
