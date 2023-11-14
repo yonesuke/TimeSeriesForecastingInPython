@@ -6,6 +6,7 @@ nav:
   - "第3章 ランダムウォーク": chapter03.ipynb
   - "第4章 移動平均プロセスのモデル化": chapter04.ipynb
   - "第5章 自己回帰プロセスのモデル化": chapter05.ipynb
+  - "第6章 複雑な時系列のモデル化": chapter06.ipynb
 
 theme:
   name: material
