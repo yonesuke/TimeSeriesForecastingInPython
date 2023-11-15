@@ -12,7 +12,7 @@
 | 第4章 移動平均プロセスのモデル化 | [chapter04](chapter04.html) | 2023-11-13 |
 | 第5章 自己回帰プロセスのモデル化 | [chapter05](chapter05.html) | 2023-11-13 |
 | 第6章 複雑な時系列のモデル化 | [chapter06](chapter06.html) | 2023-11-14 |
-| 第7章 非定常時系列の予測 | [chapter07](chapter07.html) | |
+| 第7章 非定常時系列の予測 | [chapter07](chapter07.html) | 2023-11-15 |
 | 第8章 季節性の考慮 | [chapter08](chapter08.html) | |
 | 第9章 モデルへの外部変数の追加 | [chapter09](chapter09.html) | |
 | 第10章 複数の時系列の予測 | [chapter10](chapter10.html) | |
