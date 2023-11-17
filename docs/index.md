@@ -15,7 +15,7 @@
 | 第7章 非定常時系列の予測 | [chapter07](chapter07.html) | 2023-11-15 |
 | 第8章 季節性の考慮 | [chapter08](chapter08.html) | 2023-11-16 |
 | 第9章 モデルへの外部変数の追加 | [chapter09](chapter09.html) | 2023-11-17 |
-| 第10章 複数の時系列の予測 | [chapter10](chapter10.html) | |
+| 第10章 複数の時系列の予測 | [chapter10](chapter10.html) | 2023-11-18 |
 | 第11章 キャップストーン：オーストラリアの抗糖尿病薬処方数の予測 | [chapter11](chapter11.html) | |
 | 第12章 時系列予測のためのディープラーニング | [chapter12](chapter12.html) | |
 | 第13章 ディープラーニングのためのデータウィンドウとベースラインの作成 | [chapter13](chapter13.html) | |
