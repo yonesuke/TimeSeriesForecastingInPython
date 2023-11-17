@@ -9,6 +9,7 @@ nav:
   - "第6章 複雑な時系列のモデル化": chapter06.ipynb
   - "第7章 非定常時系列の予測": chapter07.ipynb
   - "第8章 季節性の考慮": chapter08.ipynb
+  - "第9章 モデルへの外部変数の追加": chapter09.ipynb
 
 theme:
   name: material
