@@ -12,6 +12,7 @@ nav:
   - "第9章 モデルへの外部変数の追加": chapter09.ipynb
   - "第10章 複数の時系列の予測": chapter10.ipynb
   - "第11章 キャップストーン：オーストラリアの抗糖尿病薬処方数の予測": chapter11.ipynb
+  - "第12章 時系列予測のためのディープラーニング": chapter12.ipynb
 
 theme:
   name: material
