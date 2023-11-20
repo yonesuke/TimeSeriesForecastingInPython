@@ -13,6 +13,7 @@ nav:
   - "第10章 複数の時系列の予測": chapter10.ipynb
   - "第11章 キャップストーン：オーストラリアの抗糖尿病薬処方数の予測": chapter11.ipynb
   - "第12章 時系列予測のためのディープラーニング": chapter12.ipynb
+  - "第13章 ディープラーニングのためのデータウィンドウとベースライン": chapter13.ipynb
 
 theme:
   name: material
