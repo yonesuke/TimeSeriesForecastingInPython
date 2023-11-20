@@ -19,7 +19,7 @@
 | 第11章 キャップストーン：オーストラリアの抗糖尿病薬処方数の予測 | [chapter11](chapter11.html) | 2023-11-19 |
 | 第12章 時系列予測のためのディープラーニング | [chapter12](chapter12.html) | 2023-11-19 |
 | 第13章 ディープラーニングのためのデータウィンドウとベースラインの作成 | [chapter13](chapter13.html) | 2023-11-20 |
-| 第14章 ディープラーニングの手ほどき | [chapter14](chapter14.html) | |
+| 第14章 ディープラーニングの手ほどき | [chapter14](chapter14.html) | 2023-11-20 |
 | 第15章 LSTMで過去を記憶する | [chapter15](chapter15.html) | |
 | 第16章 CNNを使った時系列のフィルタリング | [chapter16](chapter16.html) | |
 | 第17章 予測を使ってさらに予測を行う | [chapter17](chapter17.html) | |
