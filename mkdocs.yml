@@ -17,6 +17,7 @@ nav:
   - "第14章 ディープラーニングの手ほどき": chapter14.ipynb
   - "第15章 LSTMで過去を記憶する": chapter15.ipynb
   - "第16章 CNNを使った時系列のフィルタリング": chapter16.ipynb
+  - "第17章 予測を使ってさらに予測を行う": chapter17.ipynb
 
 theme:
   name: material
