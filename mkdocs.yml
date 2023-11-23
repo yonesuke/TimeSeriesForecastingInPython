@@ -15,6 +15,7 @@ nav:
   - "第12章 時系列予測のためのディープラーニング": chapter12.ipynb
   - "第13章 ディープラーニングのためのデータウィンドウとベースライン": chapter13.ipynb
   - "第14章 ディープラーニングの手ほどき": chapter14.ipynb
+  - "第15章 LSTMで過去を記憶する": chapter15.ipynb
 
 theme:
   name: material
