@@ -22,7 +22,7 @@
 | 第14章 ディープラーニングの手ほどき | [chapter14](chapter14.html) | 2023-11-20 |
 | 第15章 LSTMで過去を記憶する | [chapter15](chapter15.html) | 2023-11-23 |
 | 第16章 CNNを使った時系列のフィルタリング | [chapter16](chapter16.html) | 2023-11-23 |
-| 第17章 予測を使ってさらに予測を行う | [chapter17](chapter17.html) | |
+| 第17章 予測を使ってさらに予測を行う | [chapter17](chapter17.html) | 2023-11-23 |
 | 第18章 キャップストーン：家庭の電力消費量の予測 | [chapter18](chapter18.html) | |
 | 第19章 Prophetを使った時系列予測の自動化 | [chapter19](chapter19.html) | |
 | 第20章 キャップストーン：カナダでのステーキ肉の月間平均小売価格の予測 | [chapter20](chapter20.html) | |
